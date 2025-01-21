@@ -1,0 +1,20 @@
+Chi ha inventato la pizza?
+4
+Napoli
+Napoletani
+Italia
+Italiani
+Dove si trova la Torre Eiffel?
+2
+Parigi
+Francia
+Qual è il colore del cielo in una giornata serena?
+2
+Blu
+Azzurro
+In quale continente si trova il deserto del Sahara?
+1
+Africa
+Qual è la capitale d'Italia?
+1
+Roma
