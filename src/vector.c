@@ -4,11 +4,6 @@
 
 #include "../include/vector.h"
 
-// alloca una struttura vector sullo heap
-// void createVector(Vector **a) {
-//     *a = malloc(sizeof(Vector));
-// }
-
 // alloca l'array di void* sullo heap e inizializza le variabili
 void initArray(Vector *a) {
     a->array = malloc(VECTOR_INIT_SIZE * sizeof(void*));
