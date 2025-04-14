@@ -13,15 +13,13 @@ Project for the Computer Networks course, Computer Engineering, University of Pi
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/PaoloWalsh/TrivaQuiz.git
 ```
-Replace `<repository-url>` with the actual URL of the repository.
 
 ### 2. Navigate to the Directory
 ```bash
-cd <repository-name>
+cd TriviaQuiz
 ```
-Replace `<repository-name>` with the folder name of the cloned repository.
 
 ### 3. Build the Project
 Run the following commands to clean and compile the code:
